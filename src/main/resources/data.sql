@@ -1,6 +1,6 @@
 CREATE TABLE test.user_jon
 (
-    id       UInt64,
+    id       String,
     username String,
     password String
 )
